@@ -33,7 +33,7 @@ To get started on fairness challenges in machine learning, these couple of talks
 
 ## ✍️ Authors <a name = "authors"></a>
 
-- [@chsafouane](https://github.com/chsafouane) - Idea & Initial work
+- [@chsafouane](https://github.com/chsafouane)
 
 ## 🎉 Acknowledgements <a name = "acknowledgement"></a>
 
